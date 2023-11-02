@@ -1,4 +1,4 @@
-### Hey guys! I'm a Neto, I'm a programmer looking for professional experience. I currently study Systems Analysis and Development at UFCA and here you will find a little of what I practice.
+### Hey guys! I'm Neto, I'm a programmer looking for professional experience. I currently study Systems Analysis and Development at UFCA and here you will find a little of what I practice.
 
 📈 my github stats
 
