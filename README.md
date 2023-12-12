@@ -1,12 +1,15 @@
 ### Hey guys! I'm Neto, I'm a programmer looking for professional experience. I currently study Systems Analysis and Development at UFCA and here you will find a little of what I practice.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-📈 my github stats
-
+<details>
+  <summary><b>📈 my github stats</b></summary>
 <div> <a href="https://github.com/joseantonioneto"> <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseantonioneto&layout=compact&langs_count=7&theme=dracula"/> 
+</details>
 
-[Where to find me](https://github.com/joseantonioneto)
+<b>Where to find me</b>
 
-<div> <a href="https://www.youtube.com/@JoseAntoniodeSouzaNeto-ms2ou" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/tomsouzaneto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/zenetooooooh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href = "mailto:antonio.souzneto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/tomsouzaneto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    </div>
+<div> <a href="https://www.youtube.com/@JoseAntoniodeSouzaNeto-ms2ou" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> <a href="https://www.instagram.com/tomsouzaneto/" target="_blank"><img     loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href="https://www.twitch.tv/zenetooooooh" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> <a href = "mailto:antonio.souzneto@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/tomsouzaneto/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+
 
 
 
