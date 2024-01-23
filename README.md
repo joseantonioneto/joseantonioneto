@@ -25,7 +25,7 @@
 
 </br>
 </br>
-#### My Github Status 📈    
+<b> My Github Status 📈 </b>  
 <p align="center">
  
 <a href="https://github.com/joseantonioneto">
