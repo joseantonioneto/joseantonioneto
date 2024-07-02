@@ -1,12 +1,12 @@
 <div dsplay="inline-block">
 
  <h1 align="center">Hey guys! I'm Antônio Neto.</h1>
- <strong><p align="center"> I am 25 year old, i study Systems Analysis and Development student at UFCA and I live in Natal </p></strong>
+ <strong><p align="center"> I am 25 year old, I'm a Analysis and System Development student at UFCA and I live in Natal </p></strong>
 </br>
 </br>
  <div display="inline-block"  align="center">
  <p align="center"> I'm part of the DevOps Team of the <a href="https://www.programaeficiencia.com.br/">Programa Eficiência</a>;</p>
- <p align="center"> I'm studying languages ​​applied in the course, Java and Python, but currently my focus is DevOps ;</p>
+ <p align="center"> I'm studying languages ​​with applications in the course, such as Java and Python, but my current focus is DevOps ;</p>
  <p align="center"> I only wake up with coffee ☕, don't ask me to drink, I want an invitation to play 🎮.</p>
 </div>
 
