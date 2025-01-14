@@ -1,7 +1,7 @@
 <div dsplay="inline-block">
 
  <h1 align="center">Hey guys! I'm Antônio Neto.</h1>
- <strong><p align="center"> I am 26 year old, I'm a Analysis and System Development and I live in Natal </p></strong>
+ <strong><p align="center"> I am 26 year old, I'm a System Development and I live in Natal </p></strong>
 </br>
 </br>
 </br>
