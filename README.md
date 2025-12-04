@@ -87,9 +87,4 @@
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseantonioneto&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-### 📈 Gráfico de Atividade:
-<p align="center">
-  <a href="https://github.com/joseantonioneto">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=joseantonioneto&theme=tokyonight&hide_border=true&area=true" alt="Gráfico de Atividade do GitHub" />
-  </a>
-</p>
+
