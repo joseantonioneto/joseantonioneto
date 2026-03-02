@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Banner do Perfil">
-</p>
+
 
 <div align="center">
   <h1>Olá, eu sou Neto! 👋</h1>
