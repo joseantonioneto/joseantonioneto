@@ -8,7 +8,7 @@
     <strong>Desenvolvedor de Sistemas</strong> de São Paulo-SP e residente em Natal-RN, Brasil.<br />
     Apaixonado por tecnologia e por transformar ideias em soluções digitais eficientes.
   </p>
-  <img src="https://komarev.com/ghpvc/?username=joseantonioneto&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
+  
 </div>
 
 ---
