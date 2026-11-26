@@ -5,7 +5,7 @@
   <p>
     <strong>Desenvolvedor de Sistemas</strong> 
     <br />
-    Natal-RN, Brasil.<br />
+    Natal - RN and Fortaleza - CE, Brasil.<br />
    
   </p>
   
@@ -31,12 +31,5 @@
 
 
 ---
-
-### 📊 Minhas Estatísticas do GitHub:
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joseantonioneto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joseantonioneto&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 
